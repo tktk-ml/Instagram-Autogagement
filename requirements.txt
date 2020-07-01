@@ -92,5 +92,5 @@ tornado==5.1.1
 tqdm==4.32.2
 urllib3==1.22
 webencodings==0.5.1
-Werkzeug==0.15.2
+Werkzeug==0.15.3
 xattr==0.6.4
